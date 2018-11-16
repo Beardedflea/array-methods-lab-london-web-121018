@@ -4,14 +4,14 @@ end
 
 def using_sort(array)
   sorted_array = array.sort
-  #return sorted_array
 end
 
 def using_reverse(array)
-
+  array.reverse
 end
 
 def using_first(array)
+  array.first
 
 end
 
